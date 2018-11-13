@@ -129,12 +129,6 @@
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
         <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.4112054,48.8190432</coordinates></Point>
-        <description><![CDATA[FIXME : position à préciser<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8190432/2.4112054">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.3423365,48.8756779</coordinates></Point>
         <description><![CDATA[FIXME : position à préciser<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8756779/2.3423365">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
@@ -221,18 +215,6 @@
         <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.4695634,48.6298932</coordinates></Point>
         <description><![CDATA[FIXME : not visible during survey 2017-08 (see mapillary)<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.6298932/2.4695634">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.3871084,48.8872983</coordinates></Point>
-        <description><![CDATA[FIXME : position approximative à affiner sur le terrain<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8872983/2.3871084">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.3864941,48.8870294</coordinates></Point>
-        <description><![CDATA[FIXME : position approximative à affiner sur le terrain<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8870294/2.3864941">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
 </Document>
 </kml>
