@@ -63,20 +63,8 @@
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
         <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.4240152,48.8104458</coordinates></Point>
-        <description><![CDATA[FIXME : position approximative<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8104458/2.4240152">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.452086,48.7215464</coordinates></Point>
         <description><![CDATA[FIXME : position à vérifier... maintenant qu'il y a l'extension de l'hôpital<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.7215464/2.452086">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.4152149,48.708569</coordinates></Point>
-        <description><![CDATA[FIXME : Les lignes 18 et 19 s'arrêtent-elles exactement à cet arrêt ou à un autre alentour ? vérifier sur le terrain<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.708569/2.4152149">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
