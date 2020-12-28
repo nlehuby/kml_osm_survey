@@ -71,7 +71,7 @@ def make_kml_stop_orphan(overpass_base_url, kml_wrapper) :
 
 
 def make_kml_stop_fixme(overpass_base_url, kml_wrapper) :
-    overpass_url = overpass_base_url + '[out:json][timeout:125];area(3600008649)->.area;node["highway"="bus_stop"]["FIXME"][!"disused"](area.area);out body;'
+    overpass_url = overpass_base_url + '[out:json][timeout:125];area(3600008649)->.area;node["highway"="bus_stop"]["fixme"][!"disused"](area.area);out body;'
     #overpass_url = overpass_base_url + '[out:json][timeout:125];area(3600402773)->.area;node["highway"="bus_stop"]["FIXME"][!"disused"](area.area);out body;'
 
     overpass_call = requests.get(overpass_url)
@@ -91,7 +91,7 @@ def make_kml_stop_fixme(overpass_base_url, kml_wrapper) :
 
         kml_template = kml_template.replace("%%kml_lat%%", str(elem['lat']))
         kml_template = kml_template.replace("%%kml_lon%%", str(elem['lon']))
-        kml_template = kml_template.replace("%%FIXME%%", elem['tags']['FIXME'])
+        kml_template = kml_template.replace("%%FIXME%%", elem['tags']['fixme'])
         kml_wrapper += kml_template
 
     kml_wrapper += """
@@ -170,6 +170,6 @@ if __name__ == '__main__':
   <visibility>1</visibility>
     """
 
-    make_kml_stop_without_names(overpass_base_url, kml_wrapper)
-    make_kml_stop_orphan(overpass_base_url, kml_wrapper)
+    ##make_kml_stop_without_names(overpass_base_url, kml_wrapper)
+    ##make_kml_stop_orphan(overpass_base_url, kml_wrapper)
     make_kml_stop_fixme(overpass_base_url, kml_wrapper)
