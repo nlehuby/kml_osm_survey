@@ -170,6 +170,6 @@ if __name__ == '__main__':
   <visibility>1</visibility>
     """
 
-    make_kml_stop_without_names(overpass_base_url, kml_wrapper)
-    make_kml_stop_orphan(overpass_base_url, kml_wrapper)
+    ##make_kml_stop_without_names(overpass_base_url, kml_wrapper)
+    ##make_kml_stop_orphan(overpass_base_url, kml_wrapper)
     make_kml_stop_fixme(overpass_base_url, kml_wrapper)
