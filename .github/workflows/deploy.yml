@@ -1,0 +1,19 @@
+name: Deploy kml
+
+on:
+  workflow_run:
+    workflows: ['Generate kml']
+    #branches : ['master']
+    types: ['completed']    
+
+      
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:     
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
