@@ -172,4 +172,5 @@ if __name__ == '__main__':
 
     ##make_kml_stop_without_names(overpass_base_url, kml_wrapper)
     ##make_kml_stop_orphan(overpass_base_url, kml_wrapper)
+    5/0
     make_kml_stop_fixme(overpass_base_url, kml_wrapper)
