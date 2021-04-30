@@ -2,8 +2,7 @@ name: Generate kml
 
 on:
   push:
-    branches:
-      - master
+
       
 jobs:
   build:
@@ -24,3 +23,9 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Generate kml
       run: python3 kml_generator.py
+    - name: Deploy
+      if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
