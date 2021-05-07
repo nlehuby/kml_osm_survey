@@ -1,6 +1,8 @@
 name: Generate kml
 
 on:
+  schedule:
+    - cron:  '0 18 * * 5'
   push:
     branches-ignore:
       - 'gh-pages'
@@ -26,7 +28,7 @@ jobs:
     - name: Generate kml
       run: python3 kml_generator.py
     - name: Deploy
-      if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+      if: ${{ github.ref == 'refs/heads/master' }}
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
