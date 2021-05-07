@@ -87,18 +87,6 @@
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
         <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.3073628,48.8511976</coordinates></Point>
-        <description><![CDATA[FIXME : Est-ce que cet arrêt est encore desservi par la ligne 28 ?<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8511976/2.3073628">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.3081057,48.8524922</coordinates></Point>
-        <description><![CDATA[FIXME : Est-ce que cet arrêt est encore desservi par la ligne 28 ?<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8524922/2.3081057">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.3228794,48.8754746</coordinates></Point>
         <description><![CDATA[FIXME : Vérifier la position<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8754746/2.3228794">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
@@ -107,12 +95,6 @@
         <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.3258669,48.8706707</coordinates></Point>
         <description><![CDATA[FIXME : Est-ce que cet arrêt existe encore ? Par quelles lignes est-il desservi ?<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8706707/2.3258669">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.307381,48.8510607</coordinates></Point>
-        <description><![CDATA[FIXME : Est-ce que cet arrêt est encore desservi par la ligne 28 ?<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8510607/2.307381">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
