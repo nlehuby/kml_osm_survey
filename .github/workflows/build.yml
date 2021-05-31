@@ -2,7 +2,7 @@ name: Generate kml
 
 on:
   schedule:
-    - cron:  '0 18 * * 5'
+    - cron:  '15 14 7 * *'
   push:
     branches-ignore:
       - 'gh-pages'
