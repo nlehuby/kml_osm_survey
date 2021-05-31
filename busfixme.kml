@@ -825,12 +825,6 @@
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
         <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.550131,48.846878</coordinates></Point>
-        <description><![CDATA[FIXME : vérifier la position<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.846878/2.550131">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.3374874,48.8822655</coordinates></Point>
         <description><![CDATA[FIXME : vérifier la position<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8822655/2.3374874">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
@@ -1013,12 +1007,6 @@
         <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.3978166,48.8725913</coordinates></Point>
         <description><![CDATA[FIXME : Les travaux sont-ils finis ? l'arrêt est-il à nouveau desservi ?<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8725913/2.3978166">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.256342,48.724706</coordinates></Point>
-        <description><![CDATA[FIXME : no bus here, la gare de bus est vers la nouvelle passerelle RERC-B<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.724706/2.256342">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
