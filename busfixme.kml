@@ -363,6 +363,12 @@
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
         <styleUrl>#placemark-brown</styleUrl>
+        <Point><coordinates>2.7743284,48.7003727</coordinates></Point>
+        <description><![CDATA[FIXME : Ligne 409<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.7003727/2.7743284">AJOUTER DES LIGNES</a>]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Vérifier cet arrêt de bus</name>
+        <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.3182952,48.9699126</coordinates></Point>
         <description><![CDATA[FIXME : position approximative; il faut vérifier sur le terrain<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.9699126/2.3182952">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
@@ -377,6 +383,12 @@
         <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.5070334,48.9784101</coordinates></Point>
         <description><![CDATA[FIXME : Si le bus est le numéro 53 alors il faut l'enlever du nom et rajouter l'arrêt à la relation du bus 53<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.9784101/2.5070334">AJOUTER DES LIGNES</a>]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Vérifier cet arrêt de bus</name>
+        <styleUrl>#placemark-brown</styleUrl>
+        <Point><coordinates>2.7764552,48.7007026</coordinates></Point>
+        <description><![CDATA[FIXME : Ligne 409<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.7007026/2.7764552">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
@@ -1047,18 +1059,6 @@
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
         <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.3130405,48.8897727</coordinates></Point>
-        <description><![CDATA[FIXME : position à vérifier<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8897727/2.3130405">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.313133,48.8898441</coordinates></Point>
-        <description><![CDATA[FIXME : position à vérifier<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8898441/2.313133">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.3137218,48.8875523</coordinates></Point>
         <description><![CDATA[FIXME : position à vérifier<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8875523/2.3137218">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
@@ -1233,12 +1233,6 @@
       <Placemark>
         <name>Vérifier cet arrêt de bus</name>
         <styleUrl>#placemark-brown</styleUrl>
-        <Point><coordinates>2.3798473,48.8358882</coordinates></Point>
-        <description><![CDATA[FIXME : es-ce en sous-sol ?<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.8358882/2.3798473">AJOUTER DES LIGNES</a>]]></description>
-      </Placemark>
-      <Placemark>
-        <name>Vérifier cet arrêt de bus</name>
-        <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.2953983,48.6027641</coordinates></Point>
         <description><![CDATA[FIXME : revoir les relations de bus<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.6027641/2.2953983">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
@@ -1409,6 +1403,36 @@
         <styleUrl>#placemark-brown</styleUrl>
         <Point><coordinates>2.2911928,48.7323318</coordinates></Point>
         <description><![CDATA[FIXME : tagg destination<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.7323318/2.2911928">AJOUTER DES LIGNES</a>]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Vérifier cet arrêt de bus</name>
+        <styleUrl>#placemark-brown</styleUrl>
+        <Point><coordinates>2.7749976,48.6999804</coordinates></Point>
+        <description><![CDATA[FIXME : Ligne 409<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.6999804/2.7749976">AJOUTER DES LIGNES</a>]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Vérifier cet arrêt de bus</name>
+        <styleUrl>#placemark-brown</styleUrl>
+        <Point><coordinates>2.7790773,48.7025949</coordinates></Point>
+        <description><![CDATA[FIXME : Ligne 409<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.7025949/2.7790773">AJOUTER DES LIGNES</a>]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Vérifier cet arrêt de bus</name>
+        <styleUrl>#placemark-brown</styleUrl>
+        <Point><coordinates>2.7786929,48.7025218</coordinates></Point>
+        <description><![CDATA[FIXME : Ligne 409<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.7025218/2.7786929">AJOUTER DES LIGNES</a>]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Vérifier cet arrêt de bus</name>
+        <styleUrl>#placemark-brown</styleUrl>
+        <Point><coordinates>2.7765577,48.7006414</coordinates></Point>
+        <description><![CDATA[FIXME : Ligne 409<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.7006414/2.7765577">AJOUTER DES LIGNES</a>]]></description>
+      </Placemark>
+      <Placemark>
+        <name>Vérifier cet arrêt de bus</name>
+        <styleUrl>#placemark-brown</styleUrl>
+        <Point><coordinates>2.4157485,48.6215463</coordinates></Point>
+        <description><![CDATA[FIXME : Abris bus présent mais encore aucune ligne s'arrête pour le moment. À corriger au moment venu.<br><a href="https://microcosm.5apps.com/poi.html?poi_type=bus_stop#18/48.6215463/2.4157485">AJOUTER DES LIGNES</a>]]></description>
       </Placemark>
 </Document>
 </kml>
